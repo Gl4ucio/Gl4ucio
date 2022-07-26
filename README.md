@@ -1,5 +1,4 @@
 Hi , My name is Glaucio for now i'm learning Python i like cryptography and linux be welcome to my Github page 
-
 ⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⢀⣠⣴⣶⣿⣿⣿⣶⣦⣄⡀⡀⢀⢀⢀⢀⢀⢀⢀⢀⢀
 ⢀⢀⢀⢀⢀⢀⢀⢀⢀⣴⣿⣿⣿⡿⠿⠿⠿⢿⣿⣿⣿⣦⡀⢀⢀⢀⢀⢀⢀⢀⢀
 ⢀⢀⢀⢀⢀⢀⢀⢠⣾⣿⣿⠟⠁⠁⢀⢀⢀⠈⠈⠻⣿⣿⣷⡄⢀⢀⢀⢀⢀⢀⢀
@@ -17,4 +16,3 @@ Hi , My name is Glaucio for now i'm learning Python i like cryptography and linu
 ⢀⢀⢀⢀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⢀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢀⢀⢀⢀
 ⢀⢀⢀⢀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢀⢀⢀⢀
 ⢀⢀⢀⢀⠈⠙⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠋⠁⢀⢀⢀⢀
-
